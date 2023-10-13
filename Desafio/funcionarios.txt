@@ -1,0 +1,18 @@
+ID: 1
+Nome: Bruce Banner
+Setor: Ciencias
+Carga Horária Semanal: 300.0
+Salario: 150000.0
+
+ID: 2
+Nome: Tony Stark
+Setor: CEO
+Carga Horária Semanal: 300.0
+Salario: 500000.0
+
+ID: 3
+Nome: Pepper Potts
+Setor: Administrativo
+Carga Horária Semanal: 300.0
+Salario: 250000.0
+
